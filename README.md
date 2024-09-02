@@ -7,3 +7,4 @@ Files will include comments explaining logic and reasoning that are directly fro
 LANGUAGE: C
 
 CREDITED PROJECT SOURCE: ControllersTech [https://www.youtube.com/watch?v=GJ_LFAlOlSk&list=PLfIJKC1ud8ghc4eFhI84z_3p3Ap2MCMV-](https://www.youtube.com/playlist?list=PLfIJKC1ud8ghc4eFhI84z_3p3Ap2MCMV-)
+*ControllersTech used the STM32F4NUCLEO, so bit values for registers are changed appropriately to match the STM32F4 Discovery.
