@@ -1,0 +1,6 @@
+A basic project to set up the systems clock to use HSE crystal and blink the LED's using regster based programming.
+
+LANGUAGE: C
+
+Credit: ControllersTech. https://www.youtube.com/watch?v=GJ_LFAlOlSk&list=PLfIJKC1ud8ghc4eFhI84z_3p3Ap2MCMV-
+Deviations from creator are reflected in commentes: "/*UC:... */"
