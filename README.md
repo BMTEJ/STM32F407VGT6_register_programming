@@ -3,6 +3,7 @@ MOTIVATION: 10 Mini-projects to familiarize myself with STM32CubeIDE, register b
 
 METHODS: The projects are done using the datasheet for STM32F407VGT6 [https://www.st.com/resource/en/datasheet/dm00037051.pdf](https://www.st.com/resource/en/datasheet/dm00037051.pdf)
 Files will include comments explaining logic and reasoning that are directly from myself, they will start with UC (user comment), assume any other comment is due to the code being a template file if ther are any.
+All code is written into Project_name/SRC/main.c. Main.h files are included to satisfy other file's referenced that STM32CubeIDE has preapred for each board when starting a new project.
 
 LANGUAGE: C
 
